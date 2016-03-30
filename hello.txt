@@ -1,3 +1,5 @@
 Hello Python!
 It's a big World!
 New Changes!
+Hello World!
+It's a JavaScript!
